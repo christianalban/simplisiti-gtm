@@ -1,0 +1,18 @@
+{
+    "name": "alban/simplisiti-gtm",
+    "description": "Plugin that allow integrate GTM in a simplisiti project",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alban\\SimplisitiGtm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christian Albán",
+            "email": "christianalbanctdb1d@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

@@ -1,0 +1,26 @@
+# Configuración para un archivo .editorconfig con tabulación de 4 espacios
+
+# Establece el estilo por defecto para todos los archivos
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+
+# Puedes especificar configuraciones adicionales para tipos de archivos específicos si es necesario
+# Por ejemplo, para archivos JavaScript
+[*.js]
+indent_style = space
+indent_size = 4
+
+# Para archivos Python
+[*.py]
+indent_style = space
+indent_size = 4
+
+# Para archivos HTML
+[*.html]
+indent_style = space
+indent_size = 4
+
+# Y así sucesivamente para otros tipos de archivos según sea necesario
